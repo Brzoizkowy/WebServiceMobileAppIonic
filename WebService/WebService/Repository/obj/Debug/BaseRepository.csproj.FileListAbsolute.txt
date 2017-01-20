@@ -9,3 +9,14 @@ C:\Users\Damian\Documents\Projects\WebService\Repository\bin\Debug\NLog.dll
 C:\Users\Damian\Documents\Projects\WebService\Repository\bin\Debug\Data.pdb
 C:\Users\Damian\Documents\Projects\WebService\Repository\bin\Debug\Dapper.xml
 C:\Users\Damian\Documents\Projects\WebService\Repository\bin\Debug\NLog.xml
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\Repository.dll
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\Repository.pdb
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\Dapper.dll
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\Data.dll
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\NLog.dll
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\Data.pdb
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\Dapper.xml
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\bin\Debug\NLog.xml
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\obj\Debug\BaseRepository.csprojResolveAssemblyReference.cache
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\obj\Debug\Repository.dll
+C:\Users\brzozikowy\Desktop\repo\gitt\WebServiceMobileAppIonic\WebService\WebService\Repository\obj\Debug\Repository.pdb
